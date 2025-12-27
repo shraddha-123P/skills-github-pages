@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Hi I am Shraddha : Welcome to my practice blog!
 ---
